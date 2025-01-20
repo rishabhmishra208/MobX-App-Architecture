@@ -1,0 +1,10 @@
+{
+    "partnerName": "हॉटस्टार",
+    "ignore": "Ignore",
+    "doneCTA": "Done",
+    "okayCTA": "Okay",
+    "refreshCTA": "Refresh",
+    "serverErrorMessage": "Server is not responding",
+    "noInternetConnection": "NO INTERNET CONNECTION",
+    "notConnectedInternet": "You are not connected to internet. Please\nconnect to the internet and try again."
+}
